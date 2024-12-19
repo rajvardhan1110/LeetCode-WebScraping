@@ -269,7 +269,7 @@ body{
     }
 
     #search-btn{
-        width: 15%;
+        width: 19%;
         height: 80%;
     }
 
@@ -291,5 +291,10 @@ body{
 @media  screen and (max-width:340px){
     .top-container-in{
         margin-left: 1rem;
+    }
+
+    #search-btn{
+        width: 25%;
+        height: 80%;
     }
 }
